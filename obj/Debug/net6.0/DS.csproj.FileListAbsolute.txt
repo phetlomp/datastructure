@@ -1,0 +1,15 @@
+c:\dbfolder\DS\obj\Debug\net6.0\DS.csproj.AssemblyReference.cache
+c:\dbfolder\DS\obj\Debug\net6.0\DS.GeneratedMSBuildEditorConfig.editorconfig
+c:\dbfolder\DS\obj\Debug\net6.0\DS.AssemblyInfoInputs.cache
+c:\dbfolder\DS\obj\Debug\net6.0\DS.AssemblyInfo.cs
+c:\dbfolder\DS\obj\Debug\net6.0\DS.csproj.CoreCompileInputs.cache
+c:\dbfolder\DS\bin\Debug\net6.0\DS.exe
+c:\dbfolder\DS\bin\Debug\net6.0\DS.deps.json
+c:\dbfolder\DS\bin\Debug\net6.0\DS.runtimeconfig.json
+c:\dbfolder\DS\bin\Debug\net6.0\DS.dll
+c:\dbfolder\DS\bin\Debug\net6.0\DS.pdb
+c:\dbfolder\DS\obj\Debug\net6.0\DS.dll
+c:\dbfolder\DS\obj\Debug\net6.0\refint\DS.dll
+c:\dbfolder\DS\obj\Debug\net6.0\DS.pdb
+c:\dbfolder\DS\obj\Debug\net6.0\DS.genruntimeconfig.cache
+c:\dbfolder\DS\obj\Debug\net6.0\ref\DS.dll
